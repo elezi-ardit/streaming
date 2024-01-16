@@ -1,0 +1,58 @@
+{
+		"type" : "record",
+				"name" : "Track",
+				"namespace" : "Tracks",
+		"fields" : [ {
+		"name" : "album",
+				"type" : {
+		"type" : "record",
+				"name" : "Album",
+				"fields" : [ {
+		"name" : "name",
+				"type" : "string"
+		} ]
+		}
+		}, {
+		"name" : "artists",
+				"type" : {
+		"type" : "array",
+				"items" : {
+		"type" : "record",
+				"name" : "Artist",
+				"fields" : [ {
+		"name" : "name",
+				"type" : "string"
+		} ]
+		},
+		"java-class" : "java.util.List"
+		}
+		}, {
+		"name" : "disc_number",
+				"type" : "int"
+		}, {
+		"name" : "duration_ms",
+				"type" : "int"
+		}, {
+		"name" : "explicit",
+				"type" : "boolean"
+		}, {
+		"name" : "id",
+				"type" : "string"
+		}, {
+		"name" : "name",
+				"type" : "string"
+		}, {
+		"name" : "popularity",
+				"type" : "int"
+		}, {
+		"name" : "type",
+				"type" : "string"
+		}, {
+			"name" : "eventTime",
+			"type" : {
+				"type" : "record",
+				"name" : "LocalDateTime",
+				"fields" : [ ]
+			}
+		}]
+		}

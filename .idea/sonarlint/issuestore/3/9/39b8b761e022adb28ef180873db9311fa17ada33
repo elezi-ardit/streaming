@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ªÀö8®…†Ñ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰—úü8®…†Ñ1
+x
+java:S1104"VMake topic_name a static final constant or non-public and provide accessors if needed.(Ô ­ºÿÿÿÿÿ8®…†Ñ1
+R
+java:S1444"0Make this "public static topic_name" field final(Ô ­ºÿÿÿÿÿ8®…†Ñ1
+w
+java:S3008"URename this field "topic_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô ­ºÿÿÿÿÿ8¯…†Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(¬ÆğÂûÿÿÿÿ8´…†Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(şç¿İşÿÿÿÿ8¢Ÿ¦Ñ1

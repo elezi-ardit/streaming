@@ -1,0 +1,31 @@
+
+f	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûùõú
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+a
+java:S1301V"KReplace this "switch" statement by "if" statements to increase readability.(ÑàÁ”
+a
+java:S1301_"KReplace this "switch" statement by "if" statements to increase readability.(ÑàÁ”
+g
+java:S1301Ñ"KReplace this "switch" statement by "if" statements to increase readability.(ÑÖ‚—ÿÿÿÿÿ
+u
+java:S1488§"^Immediately return this expression instead of assigning it to the temporary variable "record".(Ùâ‹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£¡¶Ø
+˜
+java:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ª¼
+C
+java:S1172Ÿ",Remove this unused method parameter "other".(¥Óé
+Q
+java:S6213§":Rename this variable to not match a restricted identifier.(Ùâ‹
+E
+java:S1905³".Remove this unnecessary cast to "DatumWriter".(Ğ²ï´
+J
+java:S1905¼".Remove this unnecessary cast to "DatumReader".(ŸÅ÷Áùÿÿÿÿ
+?	java:S108Î")Either remove or fill this block of code.(íÑÓÒ
+9
+java:S2252Ğ"This loop will never execute.(Š¸–¼úÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'org.apache.avro.generic.GenericArray'.(é¥œÿ
+L
+java:S1128
+"6Remove this unused import 'org.apache.avro.util.Utf8'.(•®˜Õ
