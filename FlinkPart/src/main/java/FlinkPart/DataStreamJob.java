@@ -18,9 +18,6 @@
 
 package FlinkPart;
 
-
-import Deserializer.CustomKafkaRecordDeserializer;
-
 import Deserializer.TrackDeserializer;
 import Tracks.Track;
 import org.apache.avro.generic.GenericData;
@@ -55,8 +52,8 @@ public class DataStreamJob {
 				.setBootstrapServers("localhost:9092")
 				.setStartingOffsets(OffsetsInitializer.earliest())
 				//.setValueOnlyDeserializer(ConfluentRegistryAvroDeserializationSchema.forSpecific(Track.class,SCHEMA_REGISTRY_URL))
-				//.setDeserializer(new TrackDeserializer(Track.class,SCHEMA_REGISTRY_URL))
-				.setDeserializer(new CustomKafkaRecordDeserializer(Track.class,SCHEMA_REGISTRY_URL))
+				.setDeserializer(new TrackDeserializer(Track.class,SCHEMA_REGISTRY_URL))
+				//.setDeserializer(new CustomKafkaRecordDeserializer(Track.class,SCHEMA_REGISTRY_URL))
 				//.setValueOnlyDeserializer(new CustomDeserializer())
 				//.setValueOnlyDeserializer((DeserializationSchema<Track>) new TrackDeserializer(Track.class,SCHEMA_REGISTRY_URL))
 				//.setProperty("key.converter","org.apache.kafka.connect.storage.StringConverter")

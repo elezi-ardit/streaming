@@ -19,7 +19,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
-
+/**
 public class CustomKafkaRecordDeserializer implements KafkaRecordDeserializationSchema<Track> {
 
 	Logger logger = Logger.getLogger(CustomKafkaRecordDeserializer.class.getName());
@@ -128,3 +128,4 @@ public class CustomKafkaRecordDeserializer implements KafkaRecordDeserialization
 //		return  TypeInformation.of(SpotifyTrackExtended.class);
 //	}
 }
+**/
