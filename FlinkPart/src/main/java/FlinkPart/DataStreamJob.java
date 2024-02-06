@@ -34,7 +34,7 @@ public class DataStreamJob {
 
 	public static final String topic66 = "topic_66";
 	static final String SCHEMA_REGISTRY_URL ="http://localhost:8081/";
-	 //TypeInformation<Track>  typeInformation= new TypeInformation<>();
+
 
 	public static void main(String[] args) throws Exception {
 
