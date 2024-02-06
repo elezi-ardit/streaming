@@ -1,0 +1,34 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û´Ä©8œò€¸Ó1
+]	java:S125("<This block of commented-out lines of code should be removed.(¯Òßáıÿÿÿÿ8£ò€¸Ó1
+G	java:S1067"+Replace this use of System.out by a logger.(Û‰¹8¤ò€¸Ó1
+X	java:S125C"<This block of commented-out lines of code should be removed.(±¿ĞÊ8¥ò€¸Ó1
+]	java:S125E"<This block of commented-out lines of code should be removed.(°¢Âæşÿÿÿÿ8¥ò€¸Ó1
+b
+java:S1128"@Remove this unused import 'org.apache.avro.file.DataFileReader'.(Ğªàûÿÿÿÿ8ùé¸Ó1
+]
+java:S1128";Remove this unused import 'org.apache.avro.io.DatumReader'.(›‡ÿÿÿÿÿ8Ä¡—¸Ó1
+T
+java:S1128"7Remove this unused import 'org.apache.avro.io.Decoder'.(ãöœİ8ùé¸Ó1
+Z
+java:S1128">Remove this unused import 'org.apache.avro.io.DecoderFactory'.( „ê{8ùé¸Ó1
+k
+java:S1128"IRemove this unused import 'org.apache.avro.specific.SpecificDatumReader'.(ƒöşÿÿÿÿ8Ä¡—¸Ó1
+f
+java:S1128	"DRemove this unused import 'org.apache.avro.specific.SpecificRecord'.(åì˜—ÿÿÿÿÿ8úé¸Ó1
+u
+java:S1128"YRemove this unused import 'org.apache.flink.api.common.serialization.SimpleStringSchema'.(ç‹8úé¸Ó1
+g
+java:S1128"JRemove this unused import 'org.apache.flink.api.common.typeinfo.TypeInfo'.(Ö¥¦‹8úé¸Ó1
+i
+java:S1128"GRemove this unused import 'org.apache.flink.api.common.typeinfo.Types'.(ÍÑ†¸ûÿÿÿÿ8úé¸Ó1
+`
+java:S1128"CRemove this unused import 'org.apache.flink.api.java.tuple.Tuple2'.(§Ùº8úé¸Ó1
+j
+java:S1128"NRemove this unused import 'org.apache.flink.api.java.typeutils.TupleTypeInfo'.(àº¿8úé¸Ó1
+…
+java:S1128"iRemove this unused import 'org.apache.flink.shaded.jackson2.com.fasterxml.jackson.databind.ObjectMapper'.(ÆÔ„8úé¸Ó1
+–
+java:S1128"yRemove this unused import 'org.apache.flink.shaded.jackson2.com.fasterxml.jackson.databind.deser.std.StringDeserializer'.(´¶¼„8ûé¸Ó1
+…
+java:S1128"cRemove this unused import 'org.apache.flink.streaming.connectors.kafka.KafkaDeserializationSchema'.(×Äıÿÿÿÿ8ûé¸Ó1

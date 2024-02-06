@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/KafkaProducer/pom.xml" />
         <option value="$PROJECT_DIR$/KafkaPart/pom.xml" />
+        <option value="$PROJECT_DIR$/FlinkPart/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -2,6 +2,7 @@ package SpotifyTracksExtended;
 
 import lombok.*;
 
+import java.time.Instant;
 import java.time.LocalDateTime;
 import java.util.List;
 
@@ -19,9 +20,9 @@ public class SpotifyTrackExtended {
 	private String name;
 	private Integer popularity;
 	private String type;
-	private LocalDateTime eventTime;
+	private String  eventTime;
 
-	public SpotifyTrackExtended(SpotifyExtendedAlbum album, List<SpotifyExtendedArtist> artists, Integer disc_number, Integer duration_ms, boolean explicit, String id, String name, Integer popularity, String type, LocalDateTime eventTime) {
+	public SpotifyTrackExtended(SpotifyExtendedAlbum album, List<SpotifyExtendedArtist> artists, Integer disc_number, Integer duration_ms, boolean explicit, String id, String name, Integer popularity, String type, String eventTime) {
 		this.album = album;
 		this.artists = artists;
 		this.disc_number = disc_number;

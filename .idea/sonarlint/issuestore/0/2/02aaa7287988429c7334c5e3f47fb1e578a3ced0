@@ -1,0 +1,7 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”«›×8•¾½ÂÑ1
+s	java:S116
+"WRename this field "analysis_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ûõ€8–¾½ÂÑ1
+q	java:S116"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÂÓ}8–¾½ÂÑ1
+z	java:S116"YRename this field "time_signature" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÃÄ‚þÿÿÿÿ8–¾½ÂÑ1
+v	java:S116"URename this field "track_href" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îƒ¯Ãúÿÿÿÿ8–¾½ÂÑ1

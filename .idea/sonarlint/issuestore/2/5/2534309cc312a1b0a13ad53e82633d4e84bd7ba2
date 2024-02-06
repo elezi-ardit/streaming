@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…İŞ’
+p	java:S116"VRename this field "disc_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š˜íÜøÿÿÿÿ
+p	java:S116"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÂİƒùÿÿÿÿ
+D
+java:S1948"'Make "album" transient or serializable.(ã®…æ8¡ªˆ–Ó1
+F
+java:S1948")Make "artists" transient or serializable.(µ¨©®8Ô†ç×1

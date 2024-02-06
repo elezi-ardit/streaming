@@ -1,7 +1,11 @@
 
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼—Ïúÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼—Ïúÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íâƒà
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íâƒà
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…İŞ’
-p	java:S116"VRename this field "disc_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š˜íÜøÿÿÿÿ
-p	java:S116"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÂİƒùÿÿÿÿ
-\	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(¼—Ïúÿÿÿÿ
+p	java:S116"VRename this field "disc_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š˜íÜøÿÿÿÿ
+p	java:S116"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÂİƒùÿÿÿÿ
+W	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(íâƒà
+P
+java:S1128".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ8şğĞ…Ò1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8şğĞ…Ò1

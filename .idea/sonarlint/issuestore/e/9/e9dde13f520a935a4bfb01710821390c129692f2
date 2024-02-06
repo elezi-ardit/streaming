@@ -1,0 +1,10 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰ìÚ®8ÄíŞíÒ1
+U
+java:S1854"8Remove this useless assignment to local variable "gson".(şëŒ8öæàíÒ1
+F
+java:S1481")Remove this unused "gson" local variable.(şëŒ8ùæàíÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ÿ±´ºùÿÿÿÿ8ÌíŞíÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¿Ôÿìıÿÿÿÿ8ËÑßíÒ1
+L	java:S106"+Replace this use of System.out by a logger.(ÚÀÊ¾ıÿÿÿÿ8ÏíŞíÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ì¶Áêùÿÿÿÿ8üæàíÒ1

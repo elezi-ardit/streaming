@@ -1,21 +1,17 @@
 
 J
-java:S1604B"(Make this anonymous inner class a lambda(şüœ€ÿÿÿÿÿ8ÓÜŒÑ1
+java:S1604@"(Make this anonymous inner class a lambda(şüœ€ÿÿÿÿÿ8ÓÜŒÑ1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âËÒİşÿÿÿÿ8ÓÜŒÑ1
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§®±8ÚÜŒÑ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§®±8ÚÜŒÑ1
 ‰
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(§®±8ÚÜŒÑ1
-X	java:S125"<This block of commented-out lines of code should be removed.(¥İ¥ö8ÚÜŒÑ1
-G	java:S106+"+Replace this use of System.out by a logger.(ÈÊ‘‡8İÜŒÑ1
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(§®±8ÚÜŒÑ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¥İ¥ö8ÚÜŒÑ1
+G	java:S106)"+Replace this use of System.out by a logger.(ÈÊ‘‡8İÜŒÑ1
 
-java:S11305"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ùûåúıÿÿÿÿ8‡±¬Ñ1
-X	java:S1258"<This block of commented-out lines of code should be removed.(Œï˜œ8İÜŒÑ1
-]	java:S125="<This block of commented-out lines of code should be removed.(±îØÕøÿÿÿÿ8›ÈóŒÑ1
-X	java:S125?"<This block of commented-out lines of code should be removed.(îµ­º8üµôŒÑ1
-L	java:S106H"+Replace this use of System.out by a logger.(âÃŸ»ùÿÿÿÿ8áÜŒÑ1
-c
-java:S1128"GRemove this unused import 'SpotifyTracksExtended.SpotifyTrackExtended'.(âËÕB8‰±¬Ñ1
-N
-java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8‰±¬Ñ1
+java:S11303"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ùûåúıÿÿÿÿ8ÑøöåÑ1
+X	java:S1256"<This block of commented-out lines of code should be removed.(Œï˜œ8İÜŒÑ1
+]	java:S125;"<This block of commented-out lines of code should be removed.(±îØÕøÿÿÿÿ8›ÈóŒÑ1
+X	java:S125="<This block of commented-out lines of code should be removed.(îµ­º8üµôŒÑ1
+L	java:S106F"+Replace this use of System.out by a logger.(âÃŸ»ùÿÿÿÿ8áÜŒÑ1
 G
-java:S1068"*Remove this unused "logger" private field.(µÊà–8âÜŒÑ1
+java:S1068"*Remove this unused "logger" private field.(µÊà–8âÜŒÑ1

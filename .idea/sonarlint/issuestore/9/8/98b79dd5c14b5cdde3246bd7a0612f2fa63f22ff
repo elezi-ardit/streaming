@@ -1,0 +1,34 @@
+
+Q
+java:S3740P"/Provide the parametrized type for this generic.(¥ªîêşÿÿÿÿ8µñ¸§Ô1
+ƒ
+java:S1104"aMake deserializationSchema a static final constant or non-public and provide accessors if needed.(¦Êéüÿÿÿÿ8¶ñ¸§Ô1
+y
+java:S2629="\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¾¶ô8·ñ¸§Ô1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û´Ä©8·ñ¸§Ô1
+J
+java:S1948"(Make "logger" transient or serializable.(›Ÿ¦®øÿÿÿÿ8Éñ¸§Ô1
+W	java:S125"<This block of commented-out lines of code should be removed.(ÍÀç98“¹§Ô1
+]	java:S125"<This block of commented-out lines of code should be removed.(Œ™È©ÿÿÿÿÿ8äµ¾§Ô1
+X	java:S125!"<This block of commented-out lines of code should be removed.(Ğ³«Î8åµ¾§Ô1
+X	java:S125'"<This block of commented-out lines of code should be removed.(•âÚâ8Ìñ¸§Ô1
+]	java:S125."<This block of commented-out lines of code should be removed.(¬ˆ‘™úÿÿÿÿ8Ìñ¸§Ô1
+M
+java:S1905;"0Remove this unnecessary cast to "GenericRecord".(ªÃÏÏ8¸”¼§Ô1
+G	java:S106<"+Replace this use of System.out by a logger.(“ñµé8Ìñ¸§Ô1
+X	java:S125;"<This block of commented-out lines of code should be removed.(ªÃÏÏ8¸”¼§Ô1
+X	java:S125>"<This block of commented-out lines of code should be removed.(‰Şæì8Íñ¸§Ô1
+Q
+java:S1905\"/Remove this unnecessary cast to "CharSequence".(¦ä“‡ùÿÿÿÿ8Ïñ¸§Ô1
+G	java:S106]"+Replace this use of System.out by a logger.(¡›ãï8Ïñ¸§Ô1
+X	java:S125g"<This block of commented-out lines of code should be removed.(„§ñ£8Ññ¸§Ô1
+X	java:S125m"<This block of commented-out lines of code should be removed.(„§ñ£8Òñ¸§Ô1
+]	java:S125q"<This block of commented-out lines of code should be removed.(Ì‚ª‡şÿÿÿÿ8Òñ¸§Ô1
+s
+java:S1128"QRemove this unused import 'io.confluent.kafka.serializers.KafkaAvroDeserializer'.(Öğéøøÿÿÿÿ8ëµ¾§Ô1
+y
+java:S1128	"\Remove this unused import 'org.apache.flink.api.common.serialization.DeserializationSchema'.(£Ì‚Õ8¾”¼§Ô1
+…
+java:S1128"cRemove this unused import 'org.apache.flink.streaming.connectors.kafka.KafkaDeserializationSchema'.(×Äıÿÿÿÿ8¾”¼§Ô1
+U
+java:S1068"3Remove this unused "typeInformation" private field.(™ŞÎĞÿÿÿÿÿ8Òñ¸§Ô1

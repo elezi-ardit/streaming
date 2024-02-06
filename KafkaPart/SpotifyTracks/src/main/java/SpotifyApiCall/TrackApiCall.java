@@ -12,13 +12,14 @@ import org.springframework.http.client.reactive.ReactorClientHttpConnector;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
+import java.time.Instant;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
  public class TrackApiCall {
 	private static final String API_BASE_URL = "https://api.spotify.com/v1";
 
-	private static final String AUTH_TOKEN = "Bearer BQA-MaT4AJMz3hD25EF-U6i3k5KVermBou7-4c71uO_4PXL_Fk3kdI3TdvgRGJV63nWPTBoLW35eYcB2hM_XwlhADl9XQIfPaXGHD0u1RBIJOTG71IzfbQasj7nLvIRvIA1vBXX_zMTKTjzMtk2ty2tdGbI5_l6BRRGV2CO6bpJJ-x1xiojb6JCLguMfKtL1DGEfqx_aHUg_86mA_YIgpw";
+	private static final String AUTH_TOKEN = "Bearer BQBs0yFBEGSJZgL5o54BFVrDsmRr_RfmCjbmQ_b1RrQitWDVqdpkodptd3d9wf9J41RpSvK-K3uIyqlORPn__Qiv7Q0CbQDdwr6-lqoCfDwu128SZdFYwaRgs3Rk16Gyhy6GEXfInWXPXJMuxTyl0LQR-eY8Ez7u4Nzf6wPlT7VdpNo5KnCqaeOGCHwdcwBKwX_OYJbJ5p0RFwTd-ciEJw";
 
 	private final WebClient webClient;
 
@@ -83,7 +84,7 @@ import java.util.stream.Collectors;
 							originalTrack.getDisc_number(), originalTrack.getDuration_ms(),
 							originalTrack.isExplicit(), originalTrack.getId(),
 							originalTrack.getName(), originalTrack.getPopularity(),
-							originalTrack.getType(), LocalDateTime.now());
+							originalTrack.getType(), LocalDateTime.now().toString());
 				})
 				.doOnNext(print -> System.out.println("Atq " + print.getArtists() + print.getId() + print.getEventTime()));
 

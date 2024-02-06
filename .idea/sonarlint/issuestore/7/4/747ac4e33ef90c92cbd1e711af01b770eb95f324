@@ -1,0 +1,54 @@
+
+|
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šÿ”±øÿÿÿÿ8‘ÂÅÒ1
+|
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šÿ”±øÿÿÿÿ8’ÂÅÒ1
+X
+java:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8—ÂÅÒ1
+m	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂìŸ‰8—ÂÅÒ1
+m	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂìŸ‰8—ÂÅÒ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¿×—8—ÂÅÒ1
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒÔ»ÿÿÿÿÿ8—ÂÅÒ1
+s	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒÔ»ÿÿÿÿÿ8—ÂÅÒ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£¡¶Ø
+w	java:S116M"VRename this field "disc_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷•È–ÿÿÿÿÿ8İ‘ÂÅÒ1
+q	java:S116N"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÂÓ}8İ‘ÂÅÒ1
+H
+java:S2160"+Override the "equals" method in this class.(÷‘ğ8İ‘ÂÅÒ1
+F
+java:S1948P"$Make "id" transient or serializable.(ø™“šûÿÿÿÿ8ß‘ÂÅÒ1
+H
+java:S1948Q"&Make "name" transient or serializable.(—¯Ñ øÿÿÿÿ8ß‘ÂÅÒ1
+H
+java:S1948S"&Make "type" transient or serializable.(Ô¶¶–ûÿÿÿÿ8ß‘ÂÅÒ1
+H
+java:S1948T"+Make "eventTime" transient or serializable.(Î»Ç”8ß‘ÂÅÒ1
+^	java:S107j"BConstructor has 10 parameters, which is greater than 7 authorized.(ÂìŸ‰8à‘ÂÅÒ1
+x	java:S116ø"VRename this field "disc_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷•È–ÿÿÿÿÿ8ê‘ÂÅÒ1
+r	java:S116ù"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÂÓ}8ê‘ÂÅÒ1
+N
+java:S2160ò"+Override the "equals" method in this class.(òåÌüÿÿÿÿ8ê‘ÂÅÒ1
+p
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¢ÚÀ‘8ı‘ÂÅÒ1
+X
+java:S6213":Rename this variable to not match a restricted identifier.(Èß»Í8ş‘ÂÅÒ1
+Q
+java:S1905½".Remove this unnecessary cast to "DatumWriter".(é¸§âÿÿÿÿÿ8’ÂÅÒ1
+Q
+java:S1905Æ".Remove this unnecessary cast to "DatumReader".(İÿ¿Êıÿÿÿÿ8’ÂÅÒ1
+o
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 85 to the 15 allowed.(Ö’®S8„’ÂÅÒ1
+g
+java:S3252ƒ"IUse static access with "org.apache.avro.generic.GenericData" for "Array".(ÉùÓü8…’ÂÅÒ1
+g
+java:S3252ƒ"IUse static access with "org.apache.avro.generic.GenericData" for "Array".(ÉùÓü8…’ÂÅÒ1
+g
+java:S3252ƒ"IUse static access with "org.apache.avro.generic.GenericData" for "Array".(ÉùÓü8…’ÂÅÒ1
+g
+java:S3252°"IUse static access with "org.apache.avro.generic.GenericData" for "Array".(ÉùÓü8ˆ’ÂÅÒ1
+g
+java:S3252°"IUse static access with "org.apache.avro.generic.GenericData" for "Array".(ÉùÓü8ˆ’ÂÅÒ1
+g
+java:S3252°"IUse static access with "org.apache.avro.generic.GenericData" for "Array".(ÉùÓü8ˆ’ÂÅÒ1
+ã
+java:S6541ó"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 35 to 14, Nesting Level from 6 to 2, Number of Variables from 11 to 6.(Ö’®S8Š’ÂÅÒ1

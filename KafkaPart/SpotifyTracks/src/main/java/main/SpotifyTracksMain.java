@@ -27,7 +27,7 @@ public class SpotifyTracksMain {
 		KafkaProduce kafkaProduce = new KafkaProduce();
 		kafkaProduce.init_producer(properties);
 		Track TrackAvro =kafkaProduce.convertToAvroTrack(TrackGson);
-		System.out.println("Detajet e Avro " + TrackAvro.getId() + "  " + TrackAvro.getName() + " " +TrackAvro.getEventTime());
+		System.out.println("Detajet e Avro " + TrackAvro.getId() + "  " + TrackAvro.getName() + " " + TrackAvro.getEventTime() );
 		kafkaProduce.sendRecord(TrackAvro);
 		kafkaProduce.closeProducer();
 

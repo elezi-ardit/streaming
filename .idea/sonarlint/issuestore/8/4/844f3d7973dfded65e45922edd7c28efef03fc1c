@@ -1,0 +1,12 @@
+
+b	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ñãš»8í«×íÒ1
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(òğœæøÿÿÿÿ8í«×íÒ1
+b	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(íøŠÁ8í«×íÒ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑËÍ 8ï«×íÒ1
+X	java:S125<"<This block of commented-out lines of code should be removed.(³ış£8€¬×íÒ1
+G	java:S106V"+Replace this use of System.out by a logger.(ãÜ‰å8€¬×íÒ1
+f
+java:S1128
+"DRemove this unused import 'SpotifyAudioFeature.SpotifyAudioFeature'.(¯Øâ…ÿÿÿÿÿ8ÌšÙíÒ1
+q
+java:S1128"TRemove this unused import 'SpotifyAudioFeatureExtended.SpotifyAudioFeatureExtended'.(ÿ•ŸÖ8ÌšÙíÒ1

@@ -1,0 +1,11 @@
+
+J
+java:S1604:"(Make this anonymous inner class a lambda(şüœ€ÿÿÿÿÿ8Æ´ÊÑ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âËÒİşÿÿÿÿ8Ç´ÊÑ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‹ç÷8Ğ´ÊÑ1
+G	java:S106+"+Replace this use of System.out by a logger.(¨ä—¥8Ó´ÊÑ1
+L	java:S106B"+Replace this use of System.out by a logger.(âÃŸ»ùÿÿÿÿ8Õ´ÊÑ1
+U
+java:S1128"3Remove this unused import 'javax.sound.midi.Track'.(Û…Õœÿÿÿÿÿ8äœßáÑ1
+G
+java:S1068"*Remove this unused "logger" private field.(µÊà–8Õ´ÊÑ1

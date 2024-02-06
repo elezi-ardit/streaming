@@ -1,0 +1,44 @@
+
+z
+java:S1104	"XMake acousticness a static final constant or non-public and provide accessors if needed.(Ô÷³úÿÿÿÿ8Ü²¡ÃÑ1
+u
+java:S1104
+"XMake analysis_url a static final constant or non-public and provide accessors if needed.(ïï¸ö8Ü²¡ÃÑ1
+z
+java:S1104"XMake danceability a static final constant or non-public and provide accessors if needed.(“²§Èüÿÿÿÿ8Ü²¡ÃÑ1
+t
+java:S1104"WMake duration_ms a static final constant or non-public and provide accessors if needed.(…Ú½Ì8Ü²¡ÃÑ1
+t
+java:S1104"RMake energy a static final constant or non-public and provide accessors if needed.(†ÓØ¨úÿÿÿÿ8Ü²¡ÃÑ1
+p
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(Â¥Šˆøÿÿÿÿ8Ü²¡ÃÑ1
+~
+java:S1104"\Make instrumentalness a static final constant or non-public and provide accessors if needed.(©¡×óıÿÿÿÿ8Ü²¡ÃÑ1
+l
+java:S1104"OMake key a static final constant or non-public and provide accessors if needed.(‰õÙ…8Ü²¡ÃÑ1
+q
+java:S1104"TMake liveness a static final constant or non-public and provide accessors if needed.(èÔ÷ï8Ü²¡ÃÑ1
+v
+java:S1104"TMake loudness a static final constant or non-public and provide accessors if needed.(íÒÄùıÿÿÿÿ8Ü²¡ÃÑ1
+r
+java:S1104"PMake mode a static final constant or non-public and provide accessors if needed.(»Éº³ÿÿÿÿÿ8Ü²¡ÃÑ1
+t
+java:S1104"WMake speechiness a static final constant or non-public and provide accessors if needed.(û—¢ç8Ü²¡ÃÑ1
+n
+java:S1104"QMake tempo a static final constant or non-public and provide accessors if needed.(½Û8Ü²¡ÃÑ1
+w
+java:S1104"ZMake time_signature a static final constant or non-public and provide accessors if needed.(œ›¹8Ü²¡ÃÑ1
+x
+java:S1104"VMake track_href a static final constant or non-public and provide accessors if needed.(®‰÷Ãüÿÿÿÿ8Ü²¡ÃÑ1
+r
+java:S1104"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8Ü²¡ÃÑ1
+q
+java:S1104"OMake uri a static final constant or non-public and provide accessors if needed.(è‡¸âıÿÿÿÿ8Ü²¡ÃÑ1
+u
+java:S1104"SMake valence a static final constant or non-public and provide accessors if needed.(µÛØ¨ıÿÿÿÿ8Ü²¡ÃÑ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥¢™´
+s	java:S116
+"WRename this field "analysis_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïï¸ö8ıå¸ÂÑ1
+r	java:S116"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ú½Ì8ıå¸ÂÑ1
+u	java:S116"YRename this field "time_signature" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ›¹8ıå¸ÂÑ1
+v	java:S116"URename this field "track_href" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®‰÷Ãüÿÿÿÿ8ıå¸ÂÑ1

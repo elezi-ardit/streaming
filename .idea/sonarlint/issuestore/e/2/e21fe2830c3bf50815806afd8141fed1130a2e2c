@@ -1,0 +1,48 @@
+
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÔœ¤
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÔœ¤
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÔœ¤
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÔœ¤
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¿×—
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒÔ»ÿÿÿÿÿ
+l	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŒÔ»ÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì—@
+q	java:S116L"WRename this field "analysis_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¸úêşÿÿÿÿ
+j	java:S116N"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÂÓ}
+s	java:S116X"YRename this field "time_signature" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÃÄ‚şÿÿÿÿ
+i	java:S116Y"URename this field "track_href" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âá
+M
+java:S2160"+Override the "equals" method in this class.(ãû¼¹ûÿÿÿÿ8Ä§ğÂÑ1
+P
+java:S1948L".Make "analysis_url" transient or serializable.(â¸úêşÿÿÿÿ8Æ§ğÂÑ1
+F
+java:S1948P"$Make "id" transient or serializable.(ø™“šûÿÿÿÿ8Æ§ğÂÑ1
+H
+java:S1948Y",Make "track_href" transient or serializable.(Âá8Ç§ğÂÑ1
+H
+java:S1948Z"&Make "type" transient or serializable.(Ô¶¶–ûÿÿÿÿ8Ç§ğÂÑ1
+G
+java:S1948["%Make "uri" transient or serializable.(‰®÷Åûÿÿÿÿ8Ç§ğÂÑ1
+H
+java:S1948]"+Make "eventTime" transient or serializable.(Î»Ç”8Ç§ğÂÑ1
+^	java:S107|"BConstructor has 19 parameters, which is greater than 7 authorized.(ÈÔœ¤8Ç§ğÂÑ1
+r	java:S116¼"WRename this field "analysis_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¸úêşÿÿÿÿ
+k	java:S116¾"VRename this field "duration_ms" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÂÓ}
+t	java:S116È"YRename this field "time_signature" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÃÄ‚şÿÿÿÿ
+j	java:S116É"URename this field "track_href" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âá
+I
+java:S2160¸"+Override the "equals" method in this class.(û¤Œß8Ó§ğÂÑ1
+i
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÏÇÊŞ
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İªõşÿÿÿÿ
+i
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(†Œ Ÿ
+V
+java:S6213ë":Rename this variable to not match a restricted identifier.(¶Çò¨şÿÿÿÿ
+Q
+java:S1905Š".Remove this unnecessary cast to "DatumWriter".(éê¶ºşÿÿÿÿ8¨ğÂÑ1
+Q
+java:S1905“".Remove this unnecessary cast to "DatumReader".(­î’éùÿÿÿÿ8¨ğÂÑ1
+h
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(Ö’®S

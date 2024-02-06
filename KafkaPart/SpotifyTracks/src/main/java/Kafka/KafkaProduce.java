@@ -1,9 +1,7 @@
 package Kafka;
 
 
-import SpotifyTracksExtended.SpotifyTrackExtended;
 import Tracks.Track;
-import com.google.gson.Gson;
 import main.SpotifyTracksMain;
 import org.apache.avro.io.DatumReader;
 import org.apache.avro.io.Decoder;

@@ -10,8 +10,7 @@ import java.util.List;
 
 @Data
 @AllArgsConstructor
-public
-class SpotifyTrack {
+public class SpotifyTrack {
 
 	public SpotifyAlbum album;
 	public List<SpotifyArtist> artists;
