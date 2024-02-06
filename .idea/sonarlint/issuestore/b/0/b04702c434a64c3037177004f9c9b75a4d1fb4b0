@@ -2,9 +2,13 @@
 u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰íª"8™Ä‡¿Ó1
 v	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤¿©¸8ªÄ‡¿Ó1
 X	java:S125%"<This block of commented-out lines of code should be removed.(ÙÓÜ´8´Ä‡¿Ó1
-]	java:S125,"<This block of commented-out lines of code should be removed.(Æ¶¬ˆûÿÿÿÿ8·Ä‡¿Ó1
+]	java:S125,"<This block of commented-out lines of code should be removed.(Æ¶¬ˆûÿÿÿÿ8¯óõý×1
 ]	java:S125/"<This block of commented-out lines of code should be removed.(¹“­­þÿÿÿÿ8¸Ä‡¿Ó1
 ]	java:S125C"<This block of commented-out lines of code should be removed.(ç•Úüÿÿÿÿ8½Ä‡¿Ó1
 ]	java:S125F"<This block of commented-out lines of code should be removed.(¿óœ›üÿÿÿÿ8¿Ä‡¿Ó1
+b
+java:S1128"@Remove this unused import 'org.apache.avro.generic.GenericData'.(´¿‡Äøÿÿÿÿ8›Úñý×1
 •
 java:S1128"xRemove this unused import 'org.apache.flink.formats.avro.registry.confluent.ConfluentRegistryAvroDeserializationSchema'.(“è‰«8»£äÓ1
+z
+java:S1128"XRemove this unused import 'org.apache.flink.formats.avro.utils.AvroKryoSerializerUtils'.(íÕ¶Ãøÿÿÿÿ8œÚñý×1
