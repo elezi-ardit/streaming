@@ -40,7 +40,7 @@ public class DataStreamJob {
 
 		final StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 		env.getConfig().enableForceAvro();
-		//new AvroKryoSerializerUtils().addAvroSerializersIfRequired(env.getConfig(), GenericData.Record.class);
+
 		//SchemaRegistryClient schemaRegistryClient = new CachedSchemaRegistryClient(SCHEMA_REGISTRY_URL);
 		env.getConfig().disableForceKryo();
 		env.getConfig().disableGenericTypes();
